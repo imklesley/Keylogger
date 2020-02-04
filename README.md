@@ -1,2 +1,2 @@
 # Keylogger
-Aplicação para capturar todas as tecla pressionadas no teclado e colocar num txt
+Aplicação para capturar as informações de todas as teclas pressionadas no teclado e as colocar num txt.
